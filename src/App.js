@@ -12,16 +12,28 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
+<h2>Cognito User</h2>         
+
+<p style="white-space:pre-line;" id="token_status"></p>
+
+<p>Id Token</p>
+
+<p style="white-space:pre-line;" id="id_token"></p>
+
+<p>Access Token</p>
+
+<p style="white-space:pre-line;" id="access_token"></p>
+
+<p>User Profile</p>
+
+<p style="white-space:pre-line;" id="userInfo"></p>
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href="https://koalaplatformcreative.com"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Learn The Kaoa
           </a>
         </header>
       </div>
