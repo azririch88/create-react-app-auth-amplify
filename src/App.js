@@ -13,15 +13,15 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Edit <code>src/App.js</code> and save to reload.
+            WELCOME TO KPC HOST
           </p>
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href="https://koalaplatformcreative.com"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Tap Here
           </a>
         </header>
       </div>
