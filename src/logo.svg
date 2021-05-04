@@ -72,10 +72,10 @@
         <dc:publisher
           >
           <cc:Agent
-              rdf:about="http://openclipart.org/"
+              rdf:about="http://www.kpchost.net/"
             >
             <dc:title
-              >Openclipart</dc:title
+              >KPChost</dc:title
             >
           </cc:Agent
           >
