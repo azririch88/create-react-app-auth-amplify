@@ -12,7 +12,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-<h2>Cognito User</h2>         
+<h2>KPCHOST User</h2>         
 
 <p style="white-space:pre-line;" id="token_status"></p>
 
