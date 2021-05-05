@@ -29,11 +29,11 @@ class App extends Component {
 <p style="white-space:pre-line;" id="userInfo"></p>
           <a
             className="App-link"
-            href="https://koalaplatformcreative.com"
+            href="https://cdn.forms-content.sg-form.com/0981b8ad-92d7-11eb-8fdd-aa18125c3efc"
             
             rel="noopener noreferrer"
           >
-            Learn The Kaoa
+            Learn The Bear Language
           </a>
         </header>
       </div>
