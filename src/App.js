@@ -30,7 +30,7 @@ class App extends Component {
           <a
             className="App-link"
             href="https://koalaplatformcreative.com"
-            target="_blank"
+            
             rel="noopener noreferrer"
           >
             Learn The Kaoa
